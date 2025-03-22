@@ -1,5 +1,14 @@
 # @vanilla-extract/css
 
+## 1.17.2
+
+### Patch Changes
+
+- [#1557](https://github.com/vanilla-extract-css/vanilla-extract/pull/1557) [`134117d`](https://github.com/vanilla-extract-css/vanilla-extract/commit/134117d32e25d92edc24c8c863d757294d7b5df8) Thanks [@askoufis](https://github.com/askoufis)! - `css`: Improve type-checking performance of string literal types that include CSS variables
+
+- Updated dependencies [[`134117d`](https://github.com/vanilla-extract-css/vanilla-extract/commit/134117d32e25d92edc24c8c863d757294d7b5df8)]:
+  - @vanilla-extract/private@1.0.7
+
 ## 1.17.1
 
 ### Patch Changes
